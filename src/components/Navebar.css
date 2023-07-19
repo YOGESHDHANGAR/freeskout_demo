@@ -1,0 +1,22 @@
+.navbar_container {
+  margin: auto;
+  width: 73vw;
+}
+
+.logo_img {
+  width: 42px;
+}
+
+.nav_links_with_logo {
+  display: flex;
+  justify-content: space-between;
+  padding: 11px;
+  align-items: center;
+}
+
+.link {
+  margin-left: 40px;
+  text-decoration: none;
+  color: gray;
+  font-size: 0.9vmax;
+}
